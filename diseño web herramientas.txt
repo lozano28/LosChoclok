@@ -8,12 +8,8 @@ framewors jquery
 2.  MooTools
 3.  Prototype
 
-
-
-
-en que navegador se puede usar:
+en que navegador se puede usar :
 caniuse.com
-
 
 mockup:
 balsamiq.com
