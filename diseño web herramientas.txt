@@ -1,0 +1,45 @@
+herramientas:
+stylus
+sublime 
+ilustrator
+
+framewors jquery
+1.  JQuery
+2.  MooTools
+3.  Prototype
+
+
+
+
+en que navegador se puede usar:
+caniuse.com
+
+
+mockup:
+balsamiq.com
+
+Frameworks para sistemas de grillas en CSS
+960 grid system
+Foundation
+Bootstrap.
+
+fuentes 
+http://www.google.com/fonts/
+http://www.fontsquirrel.com/
+
+fuetes de iconos
+icomoon.io
+
+html y css3
+http://www.w3.org/
+http://css-tricks.com/examples/IconFont/
+
+---Consideraciones--------
+Elastico
+Responsive Desing 
+Mobile Firts 
+Retina
+320px iphone retina = 640px
+github repositorio 
+
+
